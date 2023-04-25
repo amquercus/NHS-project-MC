@@ -1,0 +1,23 @@
+Business problem:
+
+Two main questions posed by the NHS are:
+Has there been adequate staff and capacity in the networks?
+What was the actual utilisation of resources?
+
+you’ll investigate:
+What is the number of locations, service settings, context types, national categories, and appointment statuses in the data sets?
+What is the date range of the provided data sets, and which service settings reported the most appointments for a specific period?
+What is the number of appointments and records per month?
+What monthly and seasonal trends are evident, based on the number of appointments for service settings, context types, and national categories?
+What are the top trending hashtags (#) on Twitter related to healthcare in the UK?
+Were there adequate staff and capacity in the networks?
+What was the actual utilisation of resources?
+What possible recommendations does the data provide for the NHS?
+
+Data files:
+actual_duration.csv – Details of appointments made by patients. For example, the regional information, date, duration, and number of appointments pertaining to a certain class.
+appointments_regional.csv – Details on the type of appointments made by patients. For example, regional information, the month of appointment, appointment status, healthcare professional, appointment mode, the time between booking and the appointment, as well as the number of appointments pertaining to a certain class.
+national_categories.xlsx – Details of the national categories of appointments made by patients. For example, the regional information, date of appointment, service setting, type of context, national category, and the number of appointments pertaining to a certain class.
+metadata_nhs.txt – Details of the data set, data quality, and reference.
+tweets.csv – Data related to healthcare in the UK scraped from Twitter.
+
