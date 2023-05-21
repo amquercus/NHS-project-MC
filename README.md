@@ -15,39 +15,6 @@ Were there adequate staff and capacity in the networks?
 What was the actual utilisation of resources?
 What possible recommendations does the data provide for the NHS?
 
-Data collected - descriptives:
-> 106 locations in total of NHS in our dataset 
-
-> 5 top (11.8k to 13k appoitmnets booked): 
-NHS North West London ICB
-NHS Kent and Medway ICB
-NHS Devon ICB
-NHS Hampshire and Isle Of Wight ICB
-NHS North East London ICB
-
-> There are 4 different service settings: General Practice, Primary Care Network, Extended Access Provision and Other (including unmapped)
-> There are 2 different context types: Care Related Encounter and Other (including unmapped)
-> There are 17 different national cateories:
-General Consultation Routine
-General Consultation Acute
-Planned Clinics
-Clinical Triage
-Planned Clinical Procedure
-Structured Medication Review
-Service provided by organisation external to the practice
-Home visit
-Unplanned Clinical Activity
-Patient contact during Care Home Round
-Care Home Visit
-Social Prescribing Service
-Care Home Needs Assessment & Personalised Care and Support Planning
-Non-contractual chargeable work
-Walk-in
-Group Consultation and Group Education
-Other (unmapped + Inconsistent Mapping)
-
-> There are 3 different appointment status: Attended, Unkown, DNA
-
 
 
 
