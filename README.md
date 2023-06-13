@@ -1,11 +1,9 @@
-# Carvalho_Margarida_DA201_Assignment
-LSE Career Accelerator Course 2 Assignement
-
+# NHS-project-MC
 Business problem - Two main questions posed by the NHS are:
 Has there been adequate staff and capacity in the networks?
 What was the actual utilisation of resources?
 
-you’ll investigate:
+To investigate:
 What is the number of locations, service settings, context types, national categories, and appointment statuses in the data sets?
 What is the date range of the provided data sets, and which service settings reported the most appointments for a specific period?
 What is the number of appointments and records per month?
